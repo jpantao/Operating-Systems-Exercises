@@ -1,0 +1,17 @@
+1st fase (no extended)
+
+1k(1022??) - superblock
+
+503k - max space ocupied by directories
+503 * 32 = 16096 - n of directorys
+
+128768k - max space ocupied by files
+
+129272k - max disk space used??
+-------------------------------------
+64Mb = 65536 kb
+
+------------------------------------
+-> O primeiro bloco é o Super Block
+-> Existem 503 blocos de entradas cada um com 32 entradas??
+
